@@ -2,6 +2,10 @@ Author:
 Patrick Doherty
 John Smith
 
+Abstract:
+The effect on sobriety of alcholic intake
+
+
 Title:
 The origins of the Solar System 
 
@@ -19,3 +23,5 @@ djfdjfjd
 Acknowledgments:
 We are very grateful to J D Wetherspoons for the use of their facilities
 Also Hogs Back Brewery
+
+
