@@ -6,3 +6,4 @@ Lots of TranSMART studies...
 
 Introduction:
 Blah blah blah
+Some work has already been done on this (Doherty et al 2016).
