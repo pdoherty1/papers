@@ -1,8 +1,9 @@
 Author:
 Patrick Doherty
+John Smith
 
 Title:
-Lots of TranSMART studies...
+Lots of TranSMART studies...and issues
 
 Introduction:
 Blah blah blah
