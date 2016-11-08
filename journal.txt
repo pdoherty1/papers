@@ -1,6 +1,7 @@
 Author:
-Patrick Doherty
 John Smith
+Patrick Doherty
+
 
 Abstract:
 The effect on sobriety of alcholic intake
